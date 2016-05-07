@@ -8,7 +8,8 @@ features:
   - flexcal date format.
   - option for text align (left , right , center).
   - hide dateppicker when clicking outside the input element (http://benalman.com/projects/jquery-outside-events-plugin/).
-example:
+<br>
+example:<br>
 	$("#mycal").flexcaljdate({
 		gd_format: "dd/mm/yyyy",
 		cal:		"gd,hg",
