@@ -1,8 +1,8 @@
-flexcaljdate 
-v1.0
-flexcaljdate is simple extension for flexcal (http://github.bililite.com/flexcal/)
-flexcaljdate is focusing to jewish clander and gregorian calander only.
-features:
+flexcaljdate <br>
+v1.0<br>
+flexcaljdate is simple extension for flexcal (http://github.bililite.com/flexcal/).<br>
+flexcaljdate is focusing to jewish clander and gregorian calander only.<br>
+features:<br>
   - return to the input the date type you choose
   - auto detection of direction (rtl or ltr) and position the dateppicker to the left or right of input element
   - flexcal date format.
