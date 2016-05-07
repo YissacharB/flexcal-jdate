@@ -9,12 +9,12 @@ features:<br>
   - option for text align (left , right , center).
   - hide dateppicker when clicking outside the input element (http://benalman.com/projects/jquery-outside-events-plugin/).
 <br><br>
-example:<br><code>
+example:<br><pre>
 	$("#mycal").flexcaljdate({ <br>
 	       	gd_format: "dd/mm/yyyy", <br>
 	       	cal:		"gd,hg", <br>
 	       	align: "center" <br>
-	});</code><br><br>
+	});</pre><br><br>
 cal:<br>
   gd - gregorian date (29/05/2016)<br>
   hg - gregorian date in hebrew language (29 מאי 2016)<br>
