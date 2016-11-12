@@ -11,8 +11,8 @@ features:<br>
 <br><br>
 example:<br><pre>
 	$("#mycal").flexcaljdate({ <br>
-	       	gd_format: "dd/mm/yyyy", <br>
-	       	cal:		"gd,hg", <br>
+	 	gd_format: "dd/mm/yyyy", <br>
+	       	cal:	"ej,gd,hj", <br>
 	       	align: "center" <br>
 	});</pre><br><br>
 cal:<br>
@@ -21,6 +21,8 @@ cal:<br>
   ej - jewish date in english language (22 nisan 5776)<br>
   hj - jewish date in hebrew language (כ״ב ניסן תשע״ו)<br>
 <br><br>
+![alt tag](<input type="text" id='mycal' vlue='hi'/>)<br/>
 Copyright (c) 2016 Tady Meshesha
 <br><br>
 license : MIT  (as flexcal license)
+
