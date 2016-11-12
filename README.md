@@ -12,8 +12,7 @@ features:<br>
 example:<br><pre>
 	$("#mycal").flexcaljdate({ <br>
 	 	gd_format: "dd/mm/yyyy", <br>
-	       	cal:	"ej,gd,hj", <br>
-	       	align: "center" <br>
+	       	cal:	"ej,gd,hj"<br>
 	});</pre><br><br>
 cal:<br>
   gd - gregorian date (29/05/2016)<br>
