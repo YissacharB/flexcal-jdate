@@ -21,7 +21,8 @@ cal:<br>
   ej - jewish date in english language (22 nisan 5776)<br>
   hj - jewish date in hebrew language (כ״ב ניסן תשע״ו)<br>
 <br><br>
-![alt tag](<input type="text" id='mycal' vlue='hi'/>)<br/>
+<img src="https://cloud.githubusercontent.com/assets/18533793/20239031/5b02dcc0-a900-11e6-94e9-3b0a7a2e8cfb.jpg"/>
+<br/>
 Copyright (c) 2016 Tady Meshesha
 <br><br>
 license : MIT  (as flexcal license)
